@@ -112,20 +112,21 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:017090_0000_0F9FC2C0B677C960"/>
-            <pb facs="tcp:017090_0001_0F9FC2C1757B92F8" rendition="simple:additions"/>
+            <pb facs="unknown:017090_0000_0F9FC2C0B677C960"/>
+            <pb facs="unknown:017090_0001_0F9FC2C1757B92F8"
+                rendition="simple:additions"/>
             <p>A POEM, SPOKEN AT THE PUBLIC COMMENCEMENT AT YALE COLLEGE, IN NEW-HAVEN; SEPTEMBER 12, 1781.</p>
             <p>HARTFORD: <hi>PRINTED BY HUDSON</hi> &amp; <hi>GOODWIN.</hi>
             </p>
          </div>
          <div type="to_the_subscribers">
-            <pb facs="tcp:017090_0002_0F9FC2C3D16896B8"/>
+            <pb facs="unknown:017090_0002_0F9FC2C3D16896B8"/>
             <p>IT may not be amiſs to inform the ſubſcri<g ref="char:EOLhyphen"/>bers for the following performance, that a copy was not given at the time it was requeſted, on account of its containing ſeveral paſſages taken from a larger work which the author has by him, unfiniſhed. Upon farther conſideration however, it is thought not improper to preſent to the Public a ſpecimen of that work, in this incorrect manner, that a conjecture may be form<g ref="char:EOLhyphen"/>ed what ſucceſs it may meet, when the whole ſhall make its appearance. The paſſages are thoſe that reſpect the affairs of America at large, and the future progreſs of Society. As to the other parts of the Poem which are conſined to the ſtate of education in Connecticut, although the ſubject may be thought too particular to be reliſhed beyond the limits of a Commencement Auditory, yet if they ſhould ſerve to turn the atten<g ref="char:EOLhyphen"/>tion of any part of the Public to the real ſituation of Yale College, it may juſtify the publication.</p>
          </div>
       </front>
       <body>
          <div type="poem">
-            <pb facs="tcp:017090_0003_0F9FC2C6CAB030D8"/>
+            <pb facs="unknown:017090_0003_0F9FC2C6CAB030D8"/>
             <head>
                <hi>A POEM,</hi> &amp;c.</head>
             <l>ONCE more, thou ſacred Seat, the changing year</l>
@@ -155,7 +156,7 @@
             <l>Thy future ſons, a calm, delightful throng,</l>
             <l>As following years ſhall lead their ſteps along,</l>
             <l>
-               <pb n="4" facs="tcp:017090_0004_0F9FC2C9BADA8B28"/>To peace, to happineſs, to glory riſe,</l>
+               <pb n="4" facs="unknown:017090_0004_0F9FC2C9BADA8B28"/>To peace, to happineſs, to glory riſe,</l>
             <l>Shine thro' the earth and brighten in the ſkies.</l>
             <l>No ruſſian force that treads the diſtant ſhore,</l>
             <l>Shall dare invade thy peaceful labors more;</l>
@@ -184,7 +185,7 @@
             <l>While every friend averts th' unconſcious eye,</l>
             <l>And power, and intereſt paſs unheeding by.</l>
             <l>
-               <pb n="5" facs="tcp:017090_0005_0F9FC2CBF50E7178"/>As late, when war's grim terrors ſought repoſe,</l>
+               <pb n="5" facs="unknown:017090_0005_0F9FC2CBF50E7178"/>As late, when war's grim terrors ſought repoſe,</l>
             <l>And evening miſts and diſtant fires aroſe,</l>
             <l>Far in a gloomy grove I penſive ſtray'd,</l>
             <l>Where death's pale phantoms walk'd the midnight ſhade,</l>
@@ -213,7 +214,7 @@
             <l>His folding mantle ſlow'd in eaſy pride,</l>
             <l>His harp divine lay uſeleſs by his ſide,</l>
             <l>
-               <pb n="6" facs="tcp:017090_0006_0F9FC2CEAF7FE1B0"/>His locks in curls from myrtle chaplets hung</l>
+               <pb n="6" facs="unknown:017090_0006_0F9FC2CEAF7FE1B0"/>His locks in curls from myrtle chaplets hung</l>
             <l>And ſounds melodious melted from his tongue.</l>
             <l>"Mortal, attend, behold before thee ſtand</l>
             <l>Learning's bright Genius, guardian of the land;</l>
@@ -242,7 +243,7 @@
             <l>Tell them the wild commotions ſoon ſhall ceaſe,</l>
             <l>And bleſt Columbia hail the charms of peace,</l>
             <l>
-               <pb n="7" facs="tcp:017090_0007_0F9FC2CF8EB9D238"/>Where reſt the future deeds on earth deſign'd</l>
+               <pb n="7" facs="unknown:017090_0007_0F9FC2CF8EB9D238"/>Where reſt the future deeds on earth deſign'd</l>
             <l>To raiſe, to dignify and bleſs mankind.</l>
             <l>While Europe's numerous courts my cauſe attend,</l>
             <l>And mutual intereſt fix the mutual friend,</l>
@@ -271,7 +272,7 @@
             <l>Soon as the new form'd empire, riſing fair,</l>
             <l>Calms her brave ſons now breathing from the war.</l>
             <l>
-               <pb n="8" facs="tcp:017090_0008_0F9FC2CFC2D95AD8"/>Unfolds her harbours, ſpreads the genial ſoil,</l>
+               <pb n="8" facs="unknown:017090_0008_0F9FC2CFC2D95AD8"/>Unfolds her harbours, ſpreads the genial ſoil,</l>
             <l>And welcomes freemen to the chearful toil,</l>
             <l>What numerous ſages muſt exalt her name!</l>
             <l>What numerous bards muſt tell the world her fame!</l>
@@ -300,7 +301,7 @@
             <l>Their wars grow milder, policies enlarge,</l>
             <l>Increaſing nations feel the general charge,</l>
             <l>
-               <pb n="9" facs="tcp:017090_0009_0F9FC2D07626C330"/>Form broad alliances for mutual aid,</l>
+               <pb n="9" facs="unknown:017090_0009_0F9FC2D07626C330"/>Form broad alliances for mutual aid,</l>
             <l>Mingle their manners and extend their trade,</l>
             <l>Till each remoteſt realm, by friendſhip join'd,</l>
             <l>Link in the chain and harmonize mankind,</l>
@@ -329,7 +330,7 @@
             <l>We then beheld, 'till where in lonely pride,</l>
             <l>The far, blue Baltic pours his laboring tide;</l>
             <l>
-               <pb n="10" facs="tcp:017090_0010_0F9FC2D1402B9C10"/>At once in gathering ſquadrons, from the north,</l>
+               <pb n="10" facs="unknown:017090_0010_0F9FC2D1402B9C10"/>At once in gathering ſquadrons, from the north,</l>
             <l>The mingling ſtreamers lead the nations forth;</l>
             <l>From different ſhores unnumber'd maſts ariſe,</l>
             <l>And wave their peaceful curtains to the ſkies;</l>
@@ -360,7 +361,7 @@
             <l>We ſaw, in other ſeas and other ſkies,</l>
             <l>With equal pomp unnumber'd ſtreamers riſe;</l>
             <l>
-               <pb n="11" facs="tcp:017090_0011_0F9FC2D1F4F03730"/>Where Aſia's iſles and utmoſt ſhores extend,</l>
+               <pb n="11" facs="unknown:017090_0011_0F9FC2D1F4F03730"/>Where Aſia's iſles and utmoſt ſhores extend,</l>
             <l>Like riſing ſuns the ſheeted maſts aſcend,</l>
             <l>Sweep from all ports that cleave the orient ſtrand,</l>
             <l>Load every ocean compaſs every land,</l>
@@ -389,7 +390,7 @@
             <l>Nor leſs my power the walks of ſcience claim,</l>
             <l>In this fair land to raiſe her nobleſt name,</l>
             <l>
-               <pb n="12" facs="tcp:017090_0012_0F9FC2D62702C160"/>No more ſhall war diſturb her peaceful reign,</l>
+               <pb n="12" facs="unknown:017090_0012_0F9FC2D62702C160"/>No more ſhall war diſturb her peaceful reign,</l>
             <l>And call to fields of death her youthful train,</l>
             <l>No more her views by wealth and power immur'd,</l>
             <l>To rage alone and ſcenes of blood inur'd,</l>
@@ -419,7 +420,7 @@
             <l>And loves and graces dignify the fair<g ref="char:punc">▪</g>
             </l>
             <l>
-               <pb n="13" facs="tcp:017090_0013_0F9FC2D729311AE0"/>While ſtates and empires, policies and laws</l>
+               <pb n="13" facs="unknown:017090_0013_0F9FC2D729311AE0"/>While ſtates and empires, policies and laws</l>
             <l>Lure the firm patriot in the bolder cauſe,</l>
             <l>To ſtem the tide of power or ward the war,</l>
             <l>Like me to ſuffer and like me to dare,</l>
@@ -448,7 +449,7 @@
             <l>Or when the garden to the impaſſion'd heart,</l>
             <l>Unfiniſh'd lies and aſks the rural art,</l>
             <l>
-               <pb n="14" facs="tcp:017090_0014_0F9FC2D7353B6D18"/>With juſt deſign their equal fancies play,</l>
+               <pb n="14" facs="unknown:017090_0014_0F9FC2D7353B6D18"/>With juſt deſign their equal fancies play,</l>
             <l>From each alike the rambling beauties ſtray,</l>
             <l>Till thro' the whole the different ſcenes prevail,</l>
             <l>Here flows the fountain and there draws the dale,</l>
@@ -477,7 +478,7 @@
             <l>The ſoaring bard awakes the trembling ſtring,</l>
             <l>Virtues and loves and heavenly themes to ſing;</l>
             <l>
-               <pb n="15" facs="tcp:017090_0015_0F9FC2D7F814CFC0"/>No more of vengeful chiefs and bickering Gods,</l>
+               <pb n="15" facs="unknown:017090_0015_0F9FC2D7F814CFC0"/>No more of vengeful chiefs and bickering Gods,</l>
             <l>Where ocean crimſons and Olympus <gap reason="illegible: indecipherable" extent="2 letters">
                   <desc>••</desc>
                </gap>ods,</l>
@@ -508,7 +509,7 @@
             <l>The poor, the ſtranger find a welcome home,</l>
             <l>The vagrant foot is pointed where to roam,</l>
             <l>
-               <pb n="16" facs="tcp:017090_0016_0F9FC2D8C4734070"/>The eye of anguiſh, when no help is near,</l>
+               <pb n="16" facs="unknown:017090_0016_0F9FC2D8C4734070"/>The eye of anguiſh, when no help is near,</l>
             <l>Looks the fond w<gap reason="illegible: indecipherable" extent="2 letters">
                   <desc>••</desc>
                </gap>h and finds the mingling tear.</l>
